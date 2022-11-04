@@ -1,0 +1,27 @@
+body{
+    background-image: url('Adventure-Time-Anime.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    display: flex;
+    justify-content:center;
+}
+
+canvas{
+    border: 5px solid black
+
+}
+
+canvas{
+    background-image: url(AdventureTimeTerrain.jpg);
+    background-size:cover;
+}
+button{
+    height: 50px;
+    width: 100px;
+    margin: 10px;
+}
+
+
+
